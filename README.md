@@ -4,4 +4,4 @@ This is the Matlab code to reproduce the results in the research article: Highâ€
 
 The codes comprises of the main function, the generation of random fields, the computation of the upscaling matrix, the optimization methods and several visualization scripts to reproduce the figures in the above-mentioned research article.
 
-**Note that this code package does not include a forward model solver, but any forward model solver should be compatible with the provided code here.
+**Note that this code package does not include a forward model solver, namely "tomography" as shown in the codes, but any forward model solver should be compatible with the provided code here.
