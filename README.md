@@ -10,5 +10,5 @@ References
 
 Zhao, Y., & Luo, J. (2020). Reformulation of Bayesian Geostatistical Approach on Principal Components. Water Resources Research. https://doi.org/10.1029/2019WR026732
 
-Zhao, Y., Guo, Q., Lu, C. & Luo, J. (2020). High‐Dimensional Groundwater Flow Inverse Modeling by Upscaled Effective Model on Principal Components. Water Resources Research. https://doi.org/10.1029/2022WR032610
+Zhao, Y., Guo, Q., Lu, C. & Luo, J. (2022). High‐Dimensional Groundwater Flow Inverse Modeling by Upscaled Effective Model on Principal Components. Water Resources Research. https://doi.org/10.1029/2022WR032610
 
